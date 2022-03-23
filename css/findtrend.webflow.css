@@ -895,6 +895,22 @@
     align-items: center;
   }
 
+  .arrow-svg {
+    opacity: 1;
+  }
+
+  .arrow-svg.right {
+    opacity: 1;
+  }
+
+  .arrow-svg.left {
+    opacity: 1;
+  }
+
+  .arrow-svg.bot {
+    opacity: 1;
+  }
+
   .tab-wrapper {
     max-width: 370px;
   }
