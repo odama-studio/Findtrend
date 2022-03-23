@@ -928,6 +928,10 @@
     display: block;
   }
 
+  .txt-xl.mw-1160.desktop {
+    display: none;
+  }
+
   .card {
     padding: 30px;
   }
