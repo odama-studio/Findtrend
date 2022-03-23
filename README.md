@@ -6,6 +6,8 @@
 
 Findtrend is odama studio's first project on github based figma shoot, there are still many shortcomings in its development.
 
+We here use webflow as a site builder, you can find a demo of the site [here](https://findtrend.webflow.io/).
+
 ![babyboo preview](findtrend.jpg)
 
 
