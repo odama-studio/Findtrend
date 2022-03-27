@@ -6,9 +6,9 @@
 
 Findtrend is odama studio's first project on github based on dribbble shoot, there are still many shortcomings in its development.
 
-We here use [webflow](https://webflow.com/) as a site builder, you can find a demo of the site [here](https://findtrend.webflow.io/).
+We here use [webflow](https://webflow.com/) as a site builder, you can find a demo of the site [here](https://findtrend.webflow.io/). and figma source link is [here](https://www.figma.com/file/lnrobhtiAqRHO9JRhoVdVl/Findtrend-Webflow?node-id=0%3A1).
 
-![babyboo preview](findtrend.jpg)
+![findtrend preview](findtrend.jpg)
 
 
 ## Authors
@@ -20,9 +20,6 @@ Contributors names and contact info
 
 ## Version History
 
-<!-- - 0.2
-  - Various bug fixes and optimizations
-  - See [commit change](https://gitlab.com/odama/babyboo/-/commits/main) -->
 - 0.1
   - Initial Release
 
